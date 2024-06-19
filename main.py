@@ -1,3 +1,4 @@
+from classes import Hero, Item
 from heros import Hero_list
 from items import Item_list
 
