@@ -1,5 +1,5 @@
-from heros import *
-from items import *
+from heros import Hero_list
+from items import Item_list
 
 
 while True:
